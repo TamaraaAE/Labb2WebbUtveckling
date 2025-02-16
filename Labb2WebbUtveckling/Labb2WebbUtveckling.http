@@ -1,0 +1,6 @@
+@Labb2WebbUtveckling_HostAddress = http://localhost:5094
+
+GET {{Labb2WebbUtveckling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
